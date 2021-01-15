@@ -1,0 +1,8 @@
+README.md
+setup.py
+repartition_groupes_ruiz.egg-info/PKG-INFO
+repartition_groupes_ruiz.egg-info/SOURCES.txt
+repartition_groupes_ruiz.egg-info/dependency_links.txt
+repartition_groupes_ruiz.egg-info/top_level.txt
+repartition_pkg/__init__.py
+repartition_pkg/repartition.py

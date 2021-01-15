@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: repartition-adrian
+Version: 0.0.1
+Summary: Repartition des personnes dans groupes
+Home-page: https://github.com/adrianruizmora/repartition-des-groupes.git
+Author: Adrian Ruiz
+Author-email: adrianruizmora@hotmail.com
+License: UNKNOWN
+Description: #repartition-des-groupes
+        ce script prend un fichier texte et un nombre maximum de personnes saisi par l'utilisateur et crée un fichier "groupes.txt" qui contient une listes
+        des groupes avec une répartition équilibrée du nombre de personnes par groupe sans dépasser le nombre maximal des personnes par groupe et un fichier
+        "logs.txt" qui affiche l'historique des étapes faites par le script.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

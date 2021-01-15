@@ -1,0 +1,6 @@
+README.md
+setup.py
+repartition_pkg_blackberry.egg-info/PKG-INFO
+repartition_pkg_blackberry.egg-info/SOURCES.txt
+repartition_pkg_blackberry.egg-info/dependency_links.txt
+repartition_pkg_blackberry.egg-info/top_level.txt
